@@ -1,0 +1,26 @@
+#hh{
+color: red;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#dish-name{
+    font-size: 50px;
+    color: white;
+}
+body{
+    border: 5px;
+    border-radius: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+
+
+.card{
+    width: 500px;
+background-color: green;
+text-align: center;
+
+
+}
